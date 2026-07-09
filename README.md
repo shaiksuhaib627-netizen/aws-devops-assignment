@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AWS DevOps Intern Assignment
 
 Steps:
@@ -16,3 +17,6 @@ sudo systemctl restart nginx
 df -h
 free -h
 ps aux
+=======
+# aws-devops-assignment
+>>>>>>> ce36d4c8111b75cd4b46d82cd8016e3f78a001dc
